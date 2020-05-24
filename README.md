@@ -1,1 +1,3 @@
-fez um app com react native e usando o framework da expo ,com navigition .
+##Trabalho Elaborado comREact Native.
+
+Foi utilizado o **Expo** para *emulation*, primeiro trabalho realizado.
