@@ -5,5 +5,7 @@
 
 Foi utilizado o **Expo** para *emulation*, primeiro trabalho realizado.
 
+>Npm install e roda o projeto e vê como ficou.
+
 
 ![eu](https://github.com/evertonshow/globo/blob/master/meulogo.png)
