@@ -5,7 +5,12 @@
 
 Foi utilizado o **Expo** para *emulation*, primeiro trabalho realizado.
 
->Npm install e roda o projeto e vê como ficou.
+## installation 
+
+* git clone `https://github.com/evertonshow/globo`
+* cd globo
+* npm install or yarn install
+* Expo install
 
 
 ![eu](https://github.com/evertonshow/globo/blob/master/meulogo.png)
