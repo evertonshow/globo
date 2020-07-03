@@ -11,6 +11,8 @@ Foi utilizado o **Expo** para *emulation*, primeiro trabalho realizado.
 * cd globo
 * npm install or yarn install
 * Expo install
+* npm start
+* visit `http://localhost:3000`
 
 
 ![eu](https://github.com/evertonshow/globo/blob/master/meulogo.png)
